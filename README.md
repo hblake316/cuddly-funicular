@@ -2,7 +2,7 @@
 
 This is a simple React app that is a card-guessing game. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed to Github Pages. See https://hblake316.github.io/cuddly-funicular/.
 
 ## Available Scripts
 
